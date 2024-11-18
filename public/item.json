@@ -1,0 +1,151 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Smartphone A1",
+    "product_image": "https://i.ibb.co.com/TRnX6MW/pexels-noah-erickson-97554-404280.jpg",
+    "category": "smartphone",
+    "price": 299.99,
+    "description": "The Smartphone A1 is an affordable yet powerful device perfect for everyday use. With a 6.1-inch display and 64GB of storage, it provides a smooth user experience for browsing, social media, and entertainment. The 3000mAh battery ensures you stay connected throughout the day, making it an excellent option for those looking for a budget-friendly smartphone.",
+    "Specification": [
+      "6.1-inch display",
+      "64GB storage",
+      "3000mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 2,
+    "product_title": "Smartphone B2",
+    "product_image": "https://i.ibb.co.com/TRnX6MW/pexels-noah-erickson-97554-404280.jpg",
+    "category": "smartphone",
+    "price": 499.99,
+    "description": "The Smartphone B2 is designed to deliver top-tier performance with its 6.7-inch display and 128GB storage. Whether you're gaming, streaming videos, or multitasking, this phone can handle it all with ease. The powerful 5000mAh battery ensures all-day usage, and its sleek design offers both style and functionality, making it a great choice for tech enthusiasts.",
+    "Specification": [
+      "6.7-inch display",
+      "128GB storage",
+      "5000mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 3,
+    "product_title": "Laptop X1",
+    "product_image": "https://i.ibb.co.com/KXpsJVp/pexels-morningtrain-18105.jpg",
+    "category": "laptop",
+    "price": 799.99,
+    "description": "Laptop X1 combines performance and portability. With a 15.6-inch display, 8GB RAM, and 512GB SSD, this laptop is perfect for students and professionals alike. Whether you're working on spreadsheets, creating presentations, or enjoying media, it delivers speed and efficiency. Its sleek design and long battery life make it an excellent companion for on-the-go use.",
+    "Specification": [
+      "15.6-inch display",
+      "8GB RAM",
+      "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 4,
+    "product_title": "Laptop Y2",
+    "product_image": "https://i.ibb.co.com/KXpsJVp/pexels-morningtrain-18105.jpg",
+    "category": "laptop",
+    "price": 1299.99,
+    "description": "Laptop Y2 offers the perfect blend of power and portability for professionals. Featuring a 13.3-inch display, 16GB RAM, and a 1TB SSD, this laptop can handle intensive tasks like video editing and 3D rendering. Its slim profile and fast processing speeds make it ideal for anyone who needs to work efficiently without compromising on performance or design.",
+    "Specification": [
+      "13.3-inch display",
+      "16GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 5,
+    "product_title": "Wireless Headphones",
+    "product_image": "https://i.ibb.co.com/KD54J3h/pexels-dzeninalukac-815494.jpg",
+    "category": "Accessories",
+    "price": 79.99,
+    "description": "These wireless headphones provide exceptional sound quality with deep bass and clear highs. They feature Bluetooth 5.0 for seamless connectivity and a noise-cancelling design that blocks out distractions. With a 20-hour battery life, you can enjoy your favorite music or podcasts all day long, whether you're at the gym, commuting, or working.",
+    "Specification": [
+      "Bluetooth 5.0",
+      "Noise-cancelling",
+      "20 hours battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 6,
+    "product_title": "Phone Case",
+    "product_image": "https://i.ibb.co.com/0G33NPY/pexels-mnzoutfits-1670768.jpg",
+    "category": "Accessories",
+    "price": 15.99,
+    "description": "Protect your phone with this durable, stylish phone case. Made from soft-touch material, it offers a comfortable grip while keeping your phone safe from scratches and drops. The slim design ensures that your phone remains lightweight, while the precise cutouts provide easy access to all buttons and ports.",
+    "Specification": [
+      "Soft-touch material",
+      "Scratch-resistant"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 7,
+    "product_title": "MacBook Pro 13",
+    "product_image": "https://i.ibb.co.com/4YhJqbB/pexels-energepic-com-27411-159886.jpg",
+    "category": "macbook",
+    "price": 1299.99,
+    "description": "The MacBook Pro 13 is built for professionals who demand performance and reliability. With its stunning 13-inch display, 8GB of RAM, and 256GB SSD, this laptop can handle intensive workloads, from video editing to graphic design. Its sleek aluminum body and powerful M1 chip ensure smooth multitasking and enhanced battery life, making it a top choice for creatives and tech enthusiasts.",
+    "Specification": [
+      "13-inch display",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 8,
+    "product_title": "MacBook Air M1",
+    "product_image": "https://i.ibb.co.com/4YhJqbB/pexels-energepic-com-27411-159886.jpg",
+    "category": "macbook",
+    "price": 999.99,
+    "description": "The MacBook Air M1 is a game-changer in portability and performance. Powered by the revolutionary M1 chip, it offers lightning-fast performance and exceptional energy efficiency. Its 13.3-inch display is vibrant, and the lightweight design makes it perfect for working on the go. With up to 18 hours of battery life, it ensures you stay productive throughout the day.",
+    "Specification": [
+      "13.3-inch display",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 9,
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/Bn3ZZbp/pexels-jessbaileydesign-788946.jpg",
+    "category": "iphone",
+    "price": 999.99,
+    "description": "The iPhone 14 Pro offers cutting-edge features like a 6.1-inch ProMotion display and an advanced triple-camera system. With 128GB of storage, this phone is perfect for those who want to capture stunning photos, edit videos, or enjoy immersive gaming experiences. Powered by the A16 Bionic chip, it delivers lightning-fast performance, making it a flagship device for tech enthusiasts.",
+    "Specification": [
+      "6.1-inch display",
+      "128GB storage",
+      "ProMotion display"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 10,
+    "product_title": "iPhone 13",
+    "product_image": "https://i.ibb.co.com/Bn3ZZbp/pexels-jessbaileydesign-788946.jpg",
+    "category": "iphone",
+    "price": 799.99,
+    "description": "The iPhone 13 is a powerful and affordable smartphone packed with great features. It comes with a 6.1-inch display, 64GB storage, and a dual-camera system, making it an excellent choice for photography enthusiasts. With its A15 Bionic chip and long-lasting battery, it provides smooth performance for everyday tasks like browsing, streaming, and gaming.",
+    "Specification": [
+      "6.1-inch display",
+      "64GB storage",
+      "Dual-camera system"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+]
